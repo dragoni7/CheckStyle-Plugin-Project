@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE checkstyle-metadata PUBLIC
+"-//eclipse-cs//DTD Check Metadata 1.1//EN"
+"http://eclipse-cs.sourceforge.net/dtds/checkstyle-metadata_1_1.dtd">
+<checkstyle-metadata>
+    <rule-group-metadata name="HalsteadLengthCheck"  priority="1600">
+        <description>%HalsteadLengthCheck.desc</description>
+        <rule-metadata name="%HalsteadLengthCheck.name" internal-name="HalsteadLengthCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.HalsteadLengthCheck" />
+            <description>%HalsteadLengthCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="HalsteadDifficultyCheck"  priority="1600">
+        <description>%HalsteadDifficultyCheck.desc</description>
+        <rule-metadata name="%HalsteadDifficultyCheck.name" internal-name="HalsteadDifficultyCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.HalsteadDifficultyCheck" />
+            <description>%HalsteadDifficultyCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="HalsteadEffortCheck"  priority="1600">
+        <description>%HalsteadEffortCheck.desc</description>
+        <rule-metadata name="%HalsteadEffortCheck.name" internal-name="HalsteadEffortCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.HalsteadEffortCheck" />
+            <description>%HalsteadEffortCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="HalsteadVocabularyCheck"  priority="1600">
+        <description>%HalsteadVocabularyCheck.desc</description>
+        <rule-metadata name="%HalsteadVocabularyCheck.name" internal-name="HalsteadVocabularyCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.HalsteadVocabularyCheck" />
+            <description>%HalsteadVocabularyCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="HalsteadVolumeCheck"  priority="1600">
+        <description>%HalsteadVolumeCheck.desc</description>
+        <rule-metadata name="%HalsteadVolumeCheck.name" internal-name="HalsteadVolumeCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.HalsteadVolumeCheck" />
+            <description>%HalsteadVolumeCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="NumberCommentsCheck"  priority="1600">
+        <description>%NumberCommentsCheck.desc</description>
+        <rule-metadata name="%NumberCommentsCheck.name" internal-name="NumberCommentsCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.NumberCommentsCheck" />
+            <description>%NumberCommentsCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="NumberCommentLinesCheck"  priority="1600">
+        <description>%NumberCommentLinesCheck.desc</description>
+        <rule-metadata name="%NumberCommentLinesCheck.name" internal-name="NumberCommentLinesCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.NumberCommentLinesCheck" />
+            <description>%NumberCommentLinesCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="OperatorAmountCheck"  priority="1600">
+        <description>%OperatorAmountCheck.desc</description>
+        <rule-metadata name="%OperatorAmountCheck.name" internal-name="OperatorAmountCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.OperatorAmountCheck" />
+            <description>%OperatorAmountCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="OperandAmountCheck"  priority="1600">
+        <description>%OperandAmountCheck.desc</description>
+        <rule-metadata name="%OperandAmountCheck.name" internal-name="OperandAmountCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.OperandAmountCheck" />
+            <description>%OperandAmountCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="NumberExpressionCheck"  priority="1600">
+        <description>%NumberExpressionCheck.desc</description>
+        <rule-metadata name="%NumberExpressionCheck.name" internal-name="NumberExpressionCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.NumberExpressionCheck" />
+            <description>%NumberExpressionCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+    <rule-group-metadata name="NumberLoopStatementsCheck"  priority="1600">
+        <description>%NumberLoopStatementsCheck.desc</description>
+        <rule-metadata name="%NumberLoopStatementsCheck.name" internal-name="NumberLoopStatementsCheck" parent="TreeWalker">
+            <alternative-name internal-name="SamuelPlugin.checks.NumberLoopStatementsCheck" />
+            <description>%NumberLoopStatementsCheck.desc</description>
+        </rule-metadata>
+    </rule-group-metadata>
+    
+</checkstyle-metadata>

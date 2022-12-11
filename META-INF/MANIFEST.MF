@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SamuelPlugin
+Bundle-SymbolicName: SamuelPlugin;singleton = true
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: samuel.plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-16
+Import-Package: com.puppycrawl.tools.checkstyle,
+ com.puppycrawl.tools.checkstyle.api
